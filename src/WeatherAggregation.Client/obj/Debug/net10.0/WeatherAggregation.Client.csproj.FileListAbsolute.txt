@@ -18,6 +18,7 @@ E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\De
 E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\Debug\net10.0\WeatherAggregation.Client.AssemblyInfoInputs.cache
 E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\Debug\net10.0\WeatherAggregation.Client.AssemblyInfo.cs
 E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\Debug\net10.0\WeatherAggregation.Client.csproj.CoreCompileInputs.cache
+E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\Debug\net10.0\WeatherAggregation.Client.sourcelink.json
 E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\Debug\net10.0\WeatherA.35BBC7C7.Up2Date
 E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\Debug\net10.0\WeatherAggregation.Client.dll
 E:\code\Weather-Station-Aggregation-Service\src\WeatherAggregation.Client\obj\Debug\net10.0\refint\WeatherAggregation.Client.dll

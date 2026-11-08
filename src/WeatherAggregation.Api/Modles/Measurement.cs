@@ -1,5 +1,7 @@
 namespace WeatherAggregation.Api.Models;
 
-public sealed record Measurement(
-    string StationName,
-    decimal Temperature);
+public class Measurement
+{
+    public string StationName { get; set; } = string.Empty;
+    public decimal Temperature { get; set; }
+}
